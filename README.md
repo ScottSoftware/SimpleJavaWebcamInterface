@@ -1,6 +1,6 @@
 # SimpleJavaWebcamInterface
 A test application that interfaces with a camera device. 
-Eclipse project, Maven build solution. relies on JavaCV 1.5.5
+Eclipse project, Maven build solution. Relies on JavaCV 1.5.5
 
 # Features
 - Captures video from a connected camera
